@@ -1,0 +1,268 @@
+.navbar-brand{
+    width: 200px;
+    
+    
+    }
+    
+    .nav-link{
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    }
+    
+    .btn_signin{
+        
+        width: 104px;
+        height: 43px;
+        left: 1201px;
+        top: 25px;
+        background: #21B573;
+        border-radius: 33px;
+        color: #fff;
+    
+    
+    }
+    
+    .get{
+        width: 153px;
+        height: 43px;
+        left: 205px;
+        top: 470px;
+        
+        background: #21B573;
+        border: 1px solid #000000;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 33px;
+    }
+    
+    header{
+        background: #F0FFF0;
+        min-height: 100vh;
+    
+    }
+    
+    header h5{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FD511A;
+    }
+    
+    header h1{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 70px;
+        color: #000000;
+    }
+    
+    header h1 span{
+     color: #21B573;
+    
+    }
+    
+    header p{
+    
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 36px;
+        color: #6C6B6B;
+    
+    }
+    
+    .hg{
+    min-height: 80vh;
+    
+    }
+    
+    .feature_section{
+    padding: 70px 0;
+    
+    }
+    
+    .items{
+        background: #F8FFFB;
+        border-radius: 10px;
+    
+    }
+    
+    .items:hover{
+        background: #FFFFFF;
+        box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+    
+    }
+    
+    .items h2{
+    
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 36px;
+        color: #413960;
+    
+    }
+    
+    .items p{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #585859;
+    }
+    
+    .items img{
+    width: 35% ;
+    
+    }
+    
+    .course{
+    padding: 70px 0;
+    
+    }
+    
+    .course_items{
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+        border-radius: 18px;
+        padding: 15px;
+    
+    }
+    
+    .course_items h2{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 36px;
+        color: #413960;
+        margin-top: 15px;
+        
+    }
+    
+    .course_items p{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #585859;
+    
+    }
+    
+    .course_items ul{
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        padding: 0;
+        
+    }
+    
+    .course_items ul li{
+        margin-right: 6pxpx;
+        
+    }
+    
+    .course_items ul li i{
+    
+    margin-right: 5px;
+    }
+    
+    .btn_course{
+        width: 137px;
+        height: 35px;
+        left: 558px;
+        top: 1461px;
+        background: #21B573;
+        border-radius: 33px;
+        margin-bottom: 10px;
+        color: white;
+    
+    }
+
+    .picture{
+        width: 120px;
+        height: 120px;
+        position: relative;
+        left: 30px;
+        bottom: 20px;
+
+
+    }
+
+    footer{
+        padding: 40px 0;
+        background: #282531;
+
+    }
+
+    footer p{
+    
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+color: #FFFFFF;
+
+    }
+
+    footer h5{
+ font-family: Poppins;
+ color: #fff;
+ font-size: 20px;
+
+    }
+
+    footer ul{
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+    font-size: 18px;
+    line-height: 30px;
+    color: #fff;
+
+    }
+
+    footer ul li{
+
+
+    }
+    
+
+    footer ul li a{
+        color: #fff;
+        text-decoration: none;
+
+
+
+    }
+    
+
+    .cr{
+        margin-top: 90px;
+    }
+
+    .cr p{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 30px;
+
+    }
